@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6297c66-35e0-43d9-9dd7-6703ddf0df92" name="Changes" comment="Add Package">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/CustomExceptions/BadCsvContentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/CustomExceptions/BadEmailException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/DB/Exporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/DB/ExternalContactsCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/DB/ExternalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/DB/Importer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/MVP/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/MVP/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/MVP/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/Models/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/Models/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/Models/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/Models/PhoneBookMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/Models/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/UI/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core/UI/Msg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2POILrdGJl3WEYI2FC6bZfSEyKK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Core.UI" />
+      <recent name="Core.DB" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6297c66-35e0-43d9-9dd7-6703ddf0df92" name="Changes" comment="" />
+      <created>1683321653736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683321653736</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add Project">
+      <created>1683321767432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683321767432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Project" />
+    <MESSAGE value="Add Package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Package" />
+  </component>
+</project>
